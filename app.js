@@ -8,6 +8,7 @@ const app = Vue.createApp({
             email: 'vcent.smith@gmail.com',
             gender: 'male',
             picture: 'https://randomuser.me/api/portraits/men/1.jpg',
+            github: 'https://github.com/Haybee96/random-user',
         }
     },
     created() {
